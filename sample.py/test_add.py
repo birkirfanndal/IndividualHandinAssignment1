@@ -1,4 +1,4 @@
 from add import add
 
-def test_add():
+def add_test():
     assert add.Add("") == 0
